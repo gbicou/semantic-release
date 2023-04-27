@@ -1,6 +1,6 @@
 {
   "name": "@bicou/semantic-release",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Semantic release configuration",
   "repository": "github:gbicou/semantic-release",
   "keywords": [],
