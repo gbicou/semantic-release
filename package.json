@@ -22,12 +22,14 @@
     "build": "unbuild",
     "release": "semantic-release"
   },
-  "devDependencies": {
+  "dependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^21.0.1"
+  },
+  "devDependencies": {
     "@types/node": "^18.16.1",
     "@types/semantic-release": "^20.0.1",
-    "semantic-release": "^21.0.1",
     "typescript": "^5.0.4",
     "unbuild": "^1.2.1"
   },
