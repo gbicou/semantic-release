@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gbicou/semantic-release/compare/v1.0.0...v1.0.1) (2023-04-27)
+
+
+### Bug Fixes
+
+* dependencies ([b901d13](https://github.com/gbicou/semantic-release/commit/b901d1312a4bd384c1223716d8a4cfb493a91f2b))
+
 # 1.0.0 (2023-04-27)
 
 
