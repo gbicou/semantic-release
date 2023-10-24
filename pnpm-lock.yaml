@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -17,8 +17,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^18.16.1
-    version: 18.16.1
+    specifier: ^20.0.0
+    version: 20.0.0
   '@types/semantic-release':
     specifier: ^20.0.1
     version: 20.0.1
@@ -939,8 +939,8 @@ packages:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: false
 
-  /@types/node@18.16.1:
-    resolution: {integrity: sha512-DZxSZWXxFfOlx7k7Rv4LAyiMroaxa3Ly/7OOzZO8cBNho0YzAi4qlbrx8W27JGqG57IgR/6J7r+nOJWw6kcvZA==}
+  /@types/node@20.0.0:
+    resolution: {integrity: sha512-cD2uPTDnQQCVpmRefonO98/PPijuOnnEy5oytWJFPY1N9aJCz2wJ5kSGWO+zJoed2cY2JxQh6yBuUq4vIn61hw==}
     dev: true
 
   /@types/normalize-package-data@2.4.1:
@@ -958,7 +958,7 @@ packages:
   /@types/semantic-release@20.0.1:
     resolution: {integrity: sha512-rANSSye4mYTnP6szFSFUPl9GEowqxKjfKKnE06/axdgOLIL3pQNB4u3gXelZ2wiL6J6Clzb8PSyX8Bbv/JOPHw==}
     dependencies:
-      '@types/node': 18.16.1
+      '@types/node': 20.0.0
     dev: true
 
   /@types/semver@7.3.13:
